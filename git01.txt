@@ -2,3 +2,8 @@ yeni kodlar yazdım
 
 push islemi yapıldı
 pull islemi yapıldı
+
+yeni islem
+
+
+
