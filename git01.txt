@@ -1,10 +1,17 @@
 yeni kodlar yazdım
 
 push islemi yapıldı
+
 pull islemi yapıldı
 
 yeni islem
 
 yeni islem yapıldı
 
+
+
+
+yeni islem
+
+hakan branch ında islem yapıldı
 
