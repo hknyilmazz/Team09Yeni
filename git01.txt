@@ -15,3 +15,5 @@ yeni islem
 
 hakan branch ında islem yapıldı
 
+remote de cakışma yaşanacak mı?Göreceğiz...
+
