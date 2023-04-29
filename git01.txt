@@ -20,3 +20,5 @@ remote de cakışma yaşanacak mı?Göreceğiz...
 remote de yeniden çakışma
 yeniden remote
 
+abc
+
