@@ -22,8 +22,12 @@ yeniden remote
 
 abc
 cde
+
 25
 
 
+
+
+remotede degisiklik yapıldı
 
 
